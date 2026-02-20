@@ -13,7 +13,7 @@
     "windows": [
       {
         "label": "main",
-        "title": "aiops-studio-desktop",
+        "title": "EY AIOps Studio Desktop",
         "width": 1280,
         "height": 800,
         "url": "http://localhost:3000/"
