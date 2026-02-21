@@ -5,7 +5,6 @@
   "identifier": "com.aiops-studio-desktop.app",
   "build": {
     "beforeDevCommand": "",
-    "devUrl": "http://localhost:3000",
     "beforeBuildCommand": "npm run build",
     "frontendDist": "../dist"
   },
@@ -16,7 +15,8 @@
         "title": "EY AIOps Studio Desktop",
         "width": 1280,
         "height": 800,
-        "url": "http://localhost:3000/"
+        "url": "http://localhost:3000/",
+        "theme": "Dark"
       }
     ],
     "security": {

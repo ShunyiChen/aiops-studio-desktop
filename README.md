@@ -21,5 +21,8 @@ For Android development, run:
 
 PS C:\Users\ASUS\Downloads\tauri_projects>
 
-
+## 打包exe
 npm run tauri build
+
+## 检查rust更新
+cargo check
